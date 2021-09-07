@@ -13,7 +13,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const elouali = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "C", "C++"],
     askMeAbout: ["Web Dev", "Tech", "App dev", "Photography", "Writing", "UI/UX Design"],
