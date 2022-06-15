@@ -10,29 +10,27 @@
 ```javascript
 const elouali = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "C", "C++"],
-    askMeAbout: ["Web Dev", "Tech", "App dev", "Photography", "Writing", "UI/UX Design"],
+    code: ["Php", "Javascript", "Python", "C", "C++"],
+    askMeAbout: ["Web Dev", "Tech", "App dev", "Writing", "UI/UX Design"],
     technologies: {
         mobileApp: ["React Native"],
         frontEnd: {
-            js: ["ReactJs", "Redux", "jQuery"],
+            js: ["ReactJs", "VueJs", "Redux", "jQuery"],
             css: ["Materialize", "MaterielUi"]
         },
         backEnd: {
             js: ["node", "express", "Socket.Io"],
-            python: ["Django"]
+            python: ["Django"],
+            php: ["Laravel"]
         },
-        devOps: [],
-        databases: ["Mongodb", "sqlite"],
+        databases: ["Mysql", "Mongodb", "sqlite"],
         misc: ["Firebase", "Socket.IO"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am working on my business project, it's a startup I am working on:)",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to connect with different people</b> so if you want to say <b>hi or maybe you wanna work with me on something, please reach out I'll be more than happy to respond!</b> 😊</em>
 
 ---
 <!--START_SECTION:waka-->
@@ -40,7 +38,7 @@ const elouali = {
 
 ```
 💬 Languages: 
-C/C++, JavaScript, Python
+Php, C/C++, JavaScript, Python
 
 🔥 Editors: 
 Visual Studio         
