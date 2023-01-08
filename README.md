@@ -10,10 +10,10 @@
 ```javascript
 const elouali = {
     pronouns: "He" | "Him",
-    code: ["Php", "Javascript", "Python", "C", "C++"],
+    code: ["Dart", "Php", "Javascript", "Python", "C", "C++"],
     askMeAbout: ["Web Dev", "Tech", "App dev", "Writing", "UI/UX Design"],
     technologies: {
-        mobileApp: ["React Native"],
+        mobileApp: ["React Native", "Flutter"],
         frontEnd: {
             js: ["ReactJs", "VueJs", "Redux", "jQuery"],
             css: ["Materialize", "MaterielUi"]
@@ -26,7 +26,7 @@ const elouali = {
         databases: ["Mysql", "Mongodb", "sqlite"],
         misc: ["Firebase", "Socket.IO"]
     },
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "Good programmers don't just write code – they also debug code"
 };
 ```
 
