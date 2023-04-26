@@ -1,7 +1,7 @@
 
 <h2>I'm El Ouali <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>I am a computer science student at ENSA Marrakesh and a freelancer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>I am a computer science student at ENSA Marrakesh <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
@@ -10,23 +10,25 @@
 ```javascript
 const elouali = {
     pronouns: "He" | "Him",
-    code: ["Dart", "Php", "Javascript", "Python", "C", "C++"],
+    code: ["Java", "Dart", "Php", "Javascript", "Python", "C", "C++"],
     askMeAbout: ["Web Dev", "Tech", "App dev", "Writing", "UI/UX Design"],
     technologies: {
         mobileApp: ["React Native", "Flutter"],
         frontEnd: {
-            js: ["ReactJs", "VueJs", "Redux", "jQuery"],
+            js: ["Angular", "ReactJs", "VueJs", "Redux", "jQuery"],
             css: ["Materialize", "MaterielUi"]
         },
         backEnd: {
-            js: ["node", "express", "Socket.Io"],
+            js: ["NestJs", "Node", "Express", "Socket.Io"],
+            java: ["Spring Boot"],
+            php: ["Laravel"],
             python: ["Django"],
-            php: ["Laravel"]
         },
-        databases: ["Mysql", "Mongodb", "sqlite"],
-        misc: ["Firebase", "Socket.IO"]
+        databases: ["Oracle", "Mysql", "Mongodb", "Sqlite"],
+        misc: ["Firebase", "Socket.IO"],
+        Orms: ["TypeOrm"]
     },
-    funFact: "Good programmers don't just write code – they also debug code"
+    funFact: "Reading someone else code is like browsing his/her browser history it gives you an idea on how he/she thinks"
 };
 ```
 
@@ -38,7 +40,7 @@ const elouali = {
 
 ```
 💬 Languages: 
-Php, C/C++, JavaScript, Python
+Java, Php, C/C++, JavaScript, Python
 
 🔥 Editors: 
 Visual Studio         
