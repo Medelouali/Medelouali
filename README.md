@@ -28,7 +28,7 @@ const elouali = {
         misc: ["Firebase", "Socket.IO"],
         Orms: ["TypeOrm"]
     },
-    funFact: "Reading someone else code is like browsing his/her browser history it gives you an idea on how he/she thinks"
+    funFact: "The Only Way To Write Bug Free Code Is Not Writing It At All:)"
 };
 ```
 
