@@ -10,7 +10,7 @@
 ```javascript
 const elouali = {
     pronouns: "He" | "Him",
-    code: ["Java", "Dart", "Php", "Javascript", "Python", "C", "C++"],
+    code: ["Java", "Typescript", "Php", "Python", "C", "C++"],
     askMeAbout: ["Web Dev", "Tech", "App dev", "Writing", "UI/UX Design"],
     technologies: {
         mobileApp: ["React Native", "Flutter"],
