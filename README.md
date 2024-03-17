@@ -24,9 +24,10 @@ const elouali = {
             php: ["Laravel"],
             python: ["Django"],
         },
-        databases: ["Oracle", "Mysql", "Mongodb", "Sqlite"],
+        devOps: [ "Jenkins", "K8s", "CI/CD", "ArgoCD" ],
+        databases: ["Oracle", "Mysql", "Mongodb", "Sqlite", "Postgres"],
         misc: ["Firebase", "Socket.IO"],
-        Orms: ["TypeOrm"]
+        Orms: ["TypeOrm", "Hibernate"]
     },
     funFact: "The Only Way To Write Bug Free Code Is Not Writing It At All:)"
 };
